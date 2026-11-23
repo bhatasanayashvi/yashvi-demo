@@ -1,3 +1,3 @@
 # yashvi-demo
 My first Git repository<br>
-Author - yashvi bhatasana
+Author - yashvi bhatasana (git)
